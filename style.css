@@ -1,0 +1,63 @@
+
+
+.container{
+    width: 400px;
+    height: 300px;
+    margin: 0 auto;
+    background-color: rgba(0, 0, 255, 0.356);
+    padding-top:30px ;
+    padding-left: 30px;
+  
+}
+.flex{
+    display: flex;
+   
+}
+.inp1{
+    width: 45px;
+    border-radius: 3px;
+    font-size: 25px;
+    margin-right: 5px;
+    border-radius: 10px;
+
+}
+
+.btn-plus{
+    margin-right: 5px;
+    height: 30px;
+    margin-top: 3px;
+    font-size: 20px;
+}
+.btn-minus{
+   
+    height: 30px;
+    margin-top: 3px;
+   
+    font-size: 20px;
+}
+
+.btn-umn{
+   
+    height: 30px;
+    margin-top: 3px;
+    font-size: 20px;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+.btn-del{
+   
+    height: 30px;
+    margin-top: 3px;
+    font-size: 20px;
+}
+.btn-ravno{
+    height: 30px;
+    margin-top: 3px;
+    font-size: 20px;
+}
+
+.number{
+    font-size: 25px;
+    font-family: cursive;
+    margin-left: 3px;
+}
